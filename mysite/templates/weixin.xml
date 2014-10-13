@@ -1,0 +1,9 @@
+<xml>
+<ToUserName>{{ weixin.fromu }}</ToUserName>
+<FromUserName>{{ weixin.tou }}></FromUserName>
+<CreateTime>{{ weixin.time }}</CreateTime>
+<MsgType></MsgType>
+<Content>{{ weixin.content }}</Content>
+<FuncFlag>0</FuncFlag>
+              
+</xml>
